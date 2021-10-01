@@ -2,8 +2,8 @@
 
 #### Atualmente no ensino médio. Fortaleza, CE.
 
-- ✨ Estudando javascript;
-- 👨🏽‍💻 Cursando o último ano de Técnico em Redes de Computadores**
+- ✨ Estudando Javascript;
+- 👨🏽‍💻 Cursando o último ano de Técnico em Redes de Computadores
 
 <div align="left">
   <a href="https://github.com/nieelsz">
