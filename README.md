@@ -18,7 +18,7 @@
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dani-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://d1a370nemizbjq.cloudfront.net/dfbcbc71-c8c3-40b3-9e01-e8965e092971.glb">
+  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/QmgoOOT.png">
 </div>
 
    
