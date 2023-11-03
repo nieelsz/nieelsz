@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Daniel, um entusiasta em programação com 20 anos de idade. <br>💻 Desenvolvo sites e gerencio campanhas de tráfego. Sempre disposto a aprender mais e me arriscar para ser o melhor em tudo o que faço. <br>🌱 Acredito que nunca é tarde para aprender algo novo. Fora do mundo da programação, adoro praticar esportes<br>🙌 Animado para contribuir com projetos desafiadores aqui no GitHub. Entre em contato!
+👋 Olá! Eu sou o Daniel, um entusiasta em programação com 20 anos de idade. <br>💻 Back-end e Front-end. Sempre disposto a aprender mais e me arriscar para ser o melhor em tudo o que faço.
 
 
 ## 🌐 Socials:
