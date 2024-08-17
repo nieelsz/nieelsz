@@ -1,7 +1,25 @@
-# 🌐 Redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nieelsz) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/nieelsz) 
+# Nieelsz - Redes, TI e Programação
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Sobre mim
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nieelsz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Olá! Meu nome é Daniel, e trabalho com suporte em redes e TI. Nas horas vagas, gosto de programar em Python e um pouco de JavaScript, explorando soluções criativas e aprendendo novas tecnologias.
+
+## O que você encontrará aqui?
+
+Neste repositório, compartilho projetos pessoais e ferramentas relacionadas a:
+
+- **Suporte de redes e TI**: Scripts e automações para facilitar a gestão e monitoramento de redes e sistemas.
+- **Python**: Projetos e experimentos que faço para explorar linguagens de programação, focando em automação, análise de dados e desenvolvimento web.
+- **JavaScript**: Alguns projetos front-end e back-end onde estou aprimorando minhas habilidades nesta linguagem.
+
+## Tecnologias que utilizo
+
+- **Linguagens**: Python, JavaScript
+- **Ferramentas de Rede e TI**: Tactical, Proxmox, Rustdesk, Mikrotik Wireshark, Nmap, VMs, etc.
+
+## Como me encontrar
+
+Caso queira trocar uma ideia ou colaborar em algum projeto, entre em contato!
+
+- [Meu linkedin](https://www.linkedin.com/in/danielrmm/)/
+- [manodan]
