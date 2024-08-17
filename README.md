@@ -2,24 +2,18 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Daniel, e trabalho com suporte em redes e TI. Nas horas vagas, gosto de programar em Python e um pouco de JavaScript, explorando soluções criativas e aprendendo novas tecnologias.
-
-## O que você encontrará aqui?
-
-Neste repositório, compartilho projetos pessoais e ferramentas relacionadas a:
-
-- **Suporte de redes e TI**: Scripts e automações para facilitar a gestão e monitoramento de redes e sistemas.
-- **Python**: Projetos e experimentos que faço para explorar linguagens de programação, focando em automação, análise de dados e desenvolvimento web.
-- **JavaScript**: Alguns projetos front-end e back-end onde estou aprimorando minhas habilidades nesta linguagem.
-
-## Tecnologias que utilizo
-
-- **Linguagens**: Python, JavaScript
-- **Ferramentas de Rede e TI**: Tactical, Proxmox, Rustdesk, Mikrotik Wireshark, Nmap, VMs, etc.
+Trabalho com suporte em redes e TI e, nas horas vagas, programo em Python e JavaScript. Aqui você encontrará alguns projetos pessoais e experimentos que faço enquanto aprimoro minhas habilidades.
 
 ## Como me encontrar
 
 Caso queira trocar uma ideia ou colaborar em algum projeto, entre em contato!
 
-- [Meu linkedin](https://www.linkedin.com/in/danielrmm/)/
-- [manodan]
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/danielrmm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="https://discordapp.com/users/eldrm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
