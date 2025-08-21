@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Trabalho com suporte em redes e TI e, nas horas vagas, programo em Python e JavaScript. Aqui você encontrará alguns projetos pessoais e experimentos que faço enquanto aprimoro minhas habilidades.
+Trabalho com suporte em redes e TI e, nas horas vagas, programo um pouco. Aqui você encontrará alguns projetos pessoais e experimentos que faço enquanto aprimoro minhas habilidades.
 
 ## Como me encontrar
 
