@@ -1,19 +1,26 @@
-# Daniel Roberto - Redes, TI e Programação
+# 👋 Oi, eu sou o Daniel
 
-## Sobre mim
+Suporte em redes e TI de dia, programador nas horas vagas — de Fortaleza, CE 🌵
 
-Trabalho com suporte em redes e TI e, nas horas vagas, programo um pouco. Aqui você encontrará alguns projetos pessoais e experimentos que faço enquanto aprimoro minhas habilidades.
+---
 
-## Como me encontrar
+## 🔧 O que eu faço
 
-Caso queira trocar uma ideia ou colaborar em algum projeto, entre em contato!
+Trabalho com infraestrutura de redes e suporte de TI no dia a dia. No tempo livre, gosto de estudar programação e desenvolver projetos pessoais pra praticar o que aprendo. Estou sempre tentando transformar ideias em código.
 
+## 🚀 Tecnologias e ferramentas
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/danielrmm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-    <a href="https://discordapp.com/users/eldrm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📌 Projetos em destaque
+
+- 🤖 **[EmailSync](- 🤖 **[EmailSync](https://github.com/nieelsz/emailsync)** — Sincronizar e-mails entre dois servidores IMAP.
+- 🎁 **[amore](https://github.com/nieelsz/amore)** — Projeto pessoal em HTML
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielrmm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/eldrm)
