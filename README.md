@@ -29,7 +29,7 @@ Trabalho com infraestrutura de redes e suporte de TI no dia a dia. No tempo livr
 
 ## 📌 Projetos em destaque
 
-- 🤖 **[EmailSync](- 🤖 **[EmailSync](https://github.com/nieelsz/emailsync)** — Sincronizar e-mails entre dois servidores IMAP.
+- 🤖 **[EmailSync](https://github.com/nieelsz/emailsync)** — Sincronizar e-mails entre dois servidores IMAP.
 - 🎁 **[amore](https://github.com/nieelsz/amore)** — Projeto pessoal em HTML
 
 ## 📫 Como me encontrar
