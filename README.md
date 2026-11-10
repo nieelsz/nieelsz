@@ -29,8 +29,9 @@ Trabalho com infraestrutura de redes e suporte de TI no dia a dia. No tempo livr
 
 ## 📌 Projetos em destaque
 
-- 🤖 **[EmailSync](https://github.com/nieelsz/emailsync)** — Sincronizar e-mails entre dois servidores IMAP.
-- 🎁 **[amore](https://github.com/nieelsz/amore)** — Projeto pessoal em HTML
+- 🤖 **[TALIS](https://talis.devmais.com)** — Agente de IA que vende pelo WhatsApp.
+- 📊 **[RestoBI](https://restobi.com.br)** — Inteligência de faturamento para redes e operações de restaurantes. Desenvolvido por Dev+.
+- 💰 **[SomaAI](https://usesomaai.com.br)** — Controle financeiro com cobrança por pessoa.
 
 ## 📫 Como me encontrar
 
